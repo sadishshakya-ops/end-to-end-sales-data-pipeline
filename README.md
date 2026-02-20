@@ -22,7 +22,7 @@ CSV → Python Cleaning → PostgreSQL (Star Schema) → Power BI Dashboard
 - Handled missing values
 - Created derived columns (Year, Month, Shipping Days)
 
-Notebook:
+
 Notebook: [Superstore.ipynb](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/53af9eec8ab0d421e9ee6949afe62f4b9fcd4b70/superstore.ipynb)
 ---
 
