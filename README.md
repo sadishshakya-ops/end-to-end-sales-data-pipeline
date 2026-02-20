@@ -23,8 +23,7 @@ CSV → Python Cleaning → PostgreSQL (Star Schema) → Power BI Dashboard
 - Created derived columns (Year, Month, Shipping Days)
 
 Notebook:
-notebooks/01_data_cleaning.ipynb
-(https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/53af9eec8ab0d421e9ee6949afe62f4b9fcd4b70/superstore.ipynb)
+notebooks/01_data_cleaning.ipynb(https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/53af9eec8ab0d421e9ee6949afe62f4b9fcd4b70/superstore.ipynb)
 ---
 
 ## 🗄 Phase 2: Data Warehouse (PostgreSQL)
@@ -72,7 +71,7 @@ powerbi/sales_dashboard.pbix
 ---
 
 ## 📸 Dashboard Preview
-[Dashboard]([images/dashboard_screenshot.png](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/6389706a0ba6386b10afc882bf91a8e2cbe3fd91/Screenshot%202026-02-03%20140120.png)
+[Dashboard]([images/dashboard_screenshot.png](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/6389706a0ba6386b10afc882bf91a8e2cbe3fd91/Screenshot%202026-02-03%20140120.png))
 
 ---
 
