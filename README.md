@@ -67,7 +67,8 @@ powerbi/sales_dashboard.pbix
 ---
 
 ## 📊 ERD Diagram
-![ERD](images/erd.png)
+![ERD](
+https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/6086d226fd8071d8fdda431d27b68f6601e3e04d/Screenshot%202026-02-03%20135811.png)
 
 ---
 
