@@ -71,7 +71,7 @@ powerbi/sales_dashboard.pbix
 ---
 
 ## 📸 Dashboard Preview
-[Dashboard]([images/dashboard_screenshot.png](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/6389706a0ba6386b10afc882bf91a8e2cbe3fd91/Screenshot%202026-02-03%20140120.png))
+[Dashboard]([images/dashboard_screenshot.png](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/6389706a0ba6386b10afc882bf91a8e2cbe3fd91/Screenshot%202026-02-03%20140120.png)
 
 ---
 
