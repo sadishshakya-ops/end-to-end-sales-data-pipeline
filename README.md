@@ -47,9 +47,7 @@ sql/schema.sql
 
 Data loaded into PostgreSQL using psycopg2.
 
-Notebook:
-notebooks/02_etl_to_postgres.ipynb
-
+Notebook: [notebooks/02_etl_to_postgres.ipynb](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/f40d2da0b530c0961c369f4154fdf94c4671d947/Script.sql).
 ---
 
 ## 📈 Phase 3: Power BI Dashboard
