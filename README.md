@@ -56,8 +56,7 @@ Features:
 - Category Breakdown
 - Interactive Slicers
 
-File:
-powerbi/sales_dashboard.pbix
+File:[powerbi/sales_dashboard.pbix](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/2339d6978c238f487860b8cec8d50382b233b69e/Capstone%20Project%20corrected.pbix)
 
 ---
 
