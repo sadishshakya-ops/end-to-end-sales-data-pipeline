@@ -24,7 +24,7 @@ CSV → Python Cleaning → PostgreSQL (Star Schema) → Power BI Dashboard
 
 Notebook:
 notebooks/01_data_cleaning.ipynb
-https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/53af9eec8ab0d421e9ee6949afe62f4b9fcd4b70/superstore.ipynb
+(https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/53af9eec8ab0d421e9ee6949afe62f4b9fcd4b70/superstore.ipynb)
 ---
 
 ## 🗄 Phase 2: Data Warehouse (PostgreSQL)
@@ -67,12 +67,12 @@ powerbi/sales_dashboard.pbix
 ---
 
 ## 📊 ERD Diagram
-![ERD]([images/dashboard_screenshot.png](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/6086d226fd8071d8fdda431d27b68f6601e3e04d/Screenshot%202026-02-03%20135811.png)
+[ERD]([images/dashboard_screenshot.png](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/6086d226fd8071d8fdda431d27b68f6601e3e04d/Screenshot%202026-02-03%20135811.png)
 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard]([images/dashboard_screenshot.png](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/6389706a0ba6386b10afc882bf91a8e2cbe3fd91/Screenshot%202026-02-03%20140120.png)
+[Dashboard]([images/dashboard_screenshot.png](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/6389706a0ba6386b10afc882bf91a8e2cbe3fd91/Screenshot%202026-02-03%20140120.png)
 
 ---
 
