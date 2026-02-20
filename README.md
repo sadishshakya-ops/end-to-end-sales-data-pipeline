@@ -38,16 +38,14 @@ Notebook: [Superstore.ipynb](https://github.com/sadishshakya-ops/end-to-end-sale
 **Fact Table**
 - fact_sales
 
-Schema File:
-sql/schema.sql
-
+Schema File: [sql/schema.sql](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/f40d2da0b530c0961c369f4154fdf94c4671d947/Script.sql).
 ---
 
 ## 🔄 ETL Process
 
 Data loaded into PostgreSQL using psycopg2.
 
-Notebook: [notebooks/02_etl_to_postgres.ipynb](https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/f40d2da0b530c0961c369f4154fdf94c4671d947/Script.sql).
+Notebook: [notebooks/02_etl_to_postgres.ipynb]
 ---
 
 ## 📈 Phase 3: Power BI Dashboard
