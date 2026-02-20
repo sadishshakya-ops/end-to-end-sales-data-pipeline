@@ -24,7 +24,7 @@ CSV → Python Cleaning → PostgreSQL (Star Schema) → Power BI Dashboard
 
 Notebook:
 notebooks/01_data_cleaning.ipynb
-
+https://github.com/sadishshakya-ops/end-to-end-sales-data-pipeline/blob/53af9eec8ab0d421e9ee6949afe62f4b9fcd4b70/superstore.ipynb
 ---
 
 ## 🗄 Phase 2: Data Warehouse (PostgreSQL)
